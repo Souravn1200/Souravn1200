@@ -44,15 +44,20 @@
 ## Connect with Me
 Let's connect and collaborate on exciting projects! You can reach me via:
 
-
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sourav-dutta-9403412a4/">
+
+  <a href="https://www.linkedin.com/in/souravn1200">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100093539874827">
+  <a href="https://www.facebook.com/souravn1200">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+
+   <a href="mailto:souravn1200@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+</a>
+
+</div> 
 
 
 Feel free to explore my repositories and projects. Don't hesitate to open issues, contribute, or reach out for any queries or collaborations!
