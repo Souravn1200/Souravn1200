@@ -1,3 +1,10 @@
+
+<div align="center">
+  
+  <img src="https://i.ibb.co/Mgg8Bzm/Borcelle.png" alt="Cover Image" width="1000" height="300"/>
+</div>
+
+
 <div align="center">
 
 # Hi there! 👋 I'm Sourav Dutta
