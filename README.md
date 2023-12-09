@@ -13,8 +13,11 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 </p>
 
 ## Contribution
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souravn1200&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souravn1200&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+  
+</div>
 
 ## Connect with Me
 Let's connect and collaborate on exciting projects! You can reach me via:
