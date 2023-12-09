@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Sourav Dutta]
 
-<!--
-**Souravn1200/Souravn1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🚀 Here are a few things I'm experienced with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React.js,
+- **Backend:** Node.js, Express.js, RESTful APIs,
+- **Databases:** MongoDB,
+- **Tools:** Git, GitHub, VSCode, Postman
+
+
+## Connect with Me
+Let's connect and collaborate on exciting projects! You can reach me via:
+
+- [LinkedIn](Your LinkedIn profile URL)
+- [Twitter](Your Twitter profile URL)
+- [Portfolio](Link to your portfolio or personal website)
+- [Email](Souravn1200@gmail.com)
+
+Feel free to explore my repositories and projects. Don't hesitate to open issues, contribute, or reach out for any queries or collaborations!
