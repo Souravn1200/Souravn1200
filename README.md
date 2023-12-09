@@ -12,11 +12,15 @@
 </div>
 
 
+
 <div align="center">
   <p style="font-family: 'Arial', sans-serif; font-size: 18px; font-weight: bold;">
-    I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Welcome to my GitHub profile!
+    I'm a passionate MERN stack developer with a keen interest in building scalable web applications. With a foundation in modern web technologies, I thrive on leveraging the power of MongoDB for flexible data handling, Express.js for scalable backend development, React.js for intuitive user interfaces, and Node.js for efficient server-side operations.
+    <br/>
+    <span style="font-size: 22px; color: #6d48e5;">Welcome to my GitHub profile!</span>
   </p>
 </div>
+
 
 
 
