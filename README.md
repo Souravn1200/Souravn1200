@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="https://i.ibb.co/Mgg8Bzm/Borcelle.png" alt="Cover Image" width="1000" height="300"/>
+  <img src="https://i.ibb.co/Mgg8Bzm/Borcelle.png" alt="Cover Image" width="700" height="300"/>
 </div>
 
 
