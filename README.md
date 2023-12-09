@@ -1,8 +1,17 @@
+<div align="center">
+
 # Hi there! 👋 I'm Sourav Dutta
 
-I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Welcome to my GitHub profile!
+</div>
 
-🚀 Here are a few things I'm experienced with:
+
+<div align="center">
+  <p style="font-family: 'Arial', sans-serif; font-size: 18px; font-weight: bold;">
+    I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Welcome to my GitHub profile!
+  </p>
+</div>
+
+
 
 
 ## Skills
@@ -13,17 +22,19 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 </p>
 
 ## Contribution
+
 <div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souravn1200&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
-  
+
 </div>
+
 
 ## Connect with Me
 Let's connect and collaborate on exciting projects! You can reach me via:
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sourav-dutta-9403412a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
