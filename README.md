@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Sourav Dutta]
+# Hi there! 👋 I'm Sourav Dutta
 
 I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Welcome to my GitHub profile!
 
@@ -14,7 +14,7 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 ## Connect with Me
 Let's connect and collaborate on exciting projects! You can reach me via:
 
-- [LinkedIn](Your LinkedIn profile URL)
+- [LinkedIn]([Your LinkedIn profile URL](https://www.linkedin.com/in/sourav-dutta-9403412a4/))
 - [Twitter](Your Twitter profile URL)
 - [Portfolio](Link to your portfolio or personal website)
 - [Email](Souravn1200@gmail.com)
