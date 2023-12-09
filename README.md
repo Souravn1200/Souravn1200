@@ -15,7 +15,7 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 Let's connect and collaborate on exciting projects! You can reach me via:
 
 - [LinkedIn]([Sourav Dutta](https://www.linkedin.com/in/sourav-dutta-9403412a4/))
-- [Twitter](Your Twitter profile URL)
+- [Twitter](Twitter profile URL)
 - [Portfolio](Link to your portfolio or personal website)
 - [Email](Souravn1200@gmail.com)
 
